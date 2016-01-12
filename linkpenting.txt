@@ -1,0 +1,1 @@
+http://pointdeveloper.com/how-to-send-an-sms-with-ionic-framework-and-ngcorodva/ >> tutorial ionic sms
